@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date:26.12.24
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -38,15 +38,15 @@ Publish the website in the LocalHost.
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
         <div class="container-fluid">
-          <!-- Brand -->
+         
           <a class="navbar-brand text-white" href="#">Dribbble</a>
           
-          <!-- Toggler for Mobile View -->
+          
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           
-          <!-- Navigation Links -->
+          
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav me-auto">
               <li class="nav-item"><a class="nav-link text-white" href="#">Shots</a></li>
@@ -56,7 +56,7 @@ Publish the website in the LocalHost.
               <li class="nav-item"><a class="nav-link text-white" href="#">Jobs</a></li>
             </ul>
       
-            <!-- Search Box, Sign In, and Sign Up -->
+            
             <form class="d-flex me-3">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
               <button class="btn btn-outline-light" type="submit">Search</button>
@@ -190,8 +190,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot (52).png>)
-![alt text](<Screenshot (53).png>)
+![alt text](<Screenshot (54).png>)
+![alt text](<Screenshot (55).png>)
 
 
 ## RESULT:
