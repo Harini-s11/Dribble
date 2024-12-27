@@ -190,8 +190,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot (54).png>)
-![alt text](<Screenshot (55).png>)
+![alt text](<Screenshot (52).png>)
+![alt text](<Screenshot (53).png>)
 
 
 ## RESULT:
